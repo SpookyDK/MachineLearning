@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Osifp9sq5mUy+GBu/iY14vKU8yU1lIwrrC0sz3GLS9UPLHnyG83rZnabF14IKDmBf+bkA73YPe7jodVOtsohFQ==",
+  "dgSpecHash": "3ACIdnwna5QuzMRuzlqhZFrS0/0kR4JCIGqaPnk4kmm9rPMkIWLrt9RDE2ipJrbxkOvBkF3B9Md3llW3gYoikw==",
   "success": true,
-  "projectFilePath": "F:\\MachineLearningHWN\\MachineLearningHWN.csproj",
+  "projectFilePath": "/home/esben/Programmering/MachineLearning/MachineLearningHWN.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
