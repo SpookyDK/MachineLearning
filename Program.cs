@@ -17,7 +17,7 @@ namespace MACHINELEARNINGHWM
         static void Main(string[] args)
         {
             StreamReader sr = new StreamReader(@"mnist_train.csv");
-            StreamReader srw = new StreamReader(@"Weights.csv");
+            
             sr.ReadLine();
             bool running = true;
             while(running)
