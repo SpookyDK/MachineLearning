@@ -178,7 +178,8 @@ namespace MACHINELEARNINGHWM
                             sw.Write("{0},",weights[i][j][k]);
                         sw.WriteLine(weights[i][j][weights[i][j].Length-1]);
                     }
-                        
+
+                      sw.Close();  
                             
     
                    
