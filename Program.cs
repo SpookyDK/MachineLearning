@@ -77,9 +77,6 @@ namespace MACHINELEARNINGHWM
                 InitNeurons();
                 InitWeights();
                 InitBiases();
-
-
-
         }
         static void InitNeurons()
         {    //memory allocation for the neurons
