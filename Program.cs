@@ -12,7 +12,7 @@ namespace MACHINELEARNINGHWM
         static float[][] biases;
         static float[][][] weights;
         static Random random = new Random();
-        static bool load = false;
+        static bool load = true;
         static StreamReader srw = new StreamReader(@"Weights.csv");
         static void Main(string[] args)
         {
@@ -165,7 +165,7 @@ namespace MACHINELEARNINGHWM
 
 
 
-            }
+            }   
         }
 
         static void SaveWeights()
